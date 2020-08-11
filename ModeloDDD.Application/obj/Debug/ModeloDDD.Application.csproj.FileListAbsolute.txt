@@ -1,0 +1,6 @@
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\bin\Debug\ModeloDDD.Application.dll
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\bin\Debug\ModeloDDD.Application.pdb
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\obj\Debug\ModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\obj\Debug\ModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\obj\Debug\ModeloDDD.Application.dll
+C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Application\obj\Debug\ModeloDDD.Application.pdb
