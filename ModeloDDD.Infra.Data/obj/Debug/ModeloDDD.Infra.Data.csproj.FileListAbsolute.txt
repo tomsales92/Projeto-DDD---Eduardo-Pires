@@ -12,3 +12,17 @@ C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.
 C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CopyComplete
 C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.dll
 C:\Users\esales\source\repos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.pdb
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.dll.config
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.dll
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.pdb
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Domain.dll
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Domain.pdb
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.dll
+C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.pdb
