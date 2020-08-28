@@ -23,3 +23,4 @@ namespace ModeloDDD.Domain.Entities
 
 
 //1:04 https://www.youtube.com/watch?v=i9Il79a2uBU&t=7s
+//1:48 https://www.youtube.com/watch?v=i9Il79a2uBU&t=7s

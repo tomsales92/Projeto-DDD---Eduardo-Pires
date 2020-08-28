@@ -9,3 +9,8 @@ C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\Mod
 C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.dll
 C:\Users\Everton Sales\Desktop\DDD Eduardo Pires\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.pdb
+C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\ModeloDDD.Domain.dll
+C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\ModeloDDD.Domain.pdb
+C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.dll
+C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.pdb
