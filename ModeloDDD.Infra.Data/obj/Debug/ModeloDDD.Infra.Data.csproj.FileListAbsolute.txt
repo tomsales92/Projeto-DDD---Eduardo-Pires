@@ -40,3 +40,18 @@ C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Deb
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CopyComplete
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.dll
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.pdb
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.dll.config
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Infra.Data.pdb
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Domain.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Domain.pdb
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\ModeloDDD.Domain.dll.config
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Infra.Data\obj\Debug\ModeloDDD.Infra.Data.pdb

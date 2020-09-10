@@ -1,4 +1,5 @@
 ﻿using ModeloDDD.Domain.Interfaces;
+using ModeloDDD.Domain.Interfaces.Repositories;
 using ModeloDDD.Infra.Data.Contexto;
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,7 @@ namespace ModeloDDD.Infra.Data.Repositories
         }
 
      
+     
         public IEnumerable<TEntity> GetAll()
         {
             return Db.Set<TEntity>().ToList();
@@ -32,6 +34,8 @@ namespace ModeloDDD.Infra.Data.Repositories
             return Db.Set<TEntity>().Find(id);
 
         }
+
+     
 
         public void Remove(TEntity obj)
         {

@@ -52,8 +52,12 @@
       <HintPath>..\packages\AutoMapper.3.2.1\lib\net40\AutoMapper.Net4.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Ninject.Web.Mvc, Version=3.3.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.MVC5.3.3.0\lib\net45\Ninject.Web.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -176,6 +180,10 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Clientes\Index.cshtml" />
     <Content Include="Views\Clientes\Create.cshtml" />
+    <Content Include="Views\Clientes\Delete.cshtml" />
+    <Content Include="Views\Clientes\Details.cshtml" />
+    <Content Include="Views\Clientes\Edit.cshtml" />
+    <Content Include="Views\Clientes\Especiais.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -194,13 +202,13 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ModeloDDD.Application\ModeloDDD.Application.csproj">
+      <Project>{b5046332-d11e-40df-a592-06f7548c6df7}</Project>
+      <Name>ModeloDDD.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModeloDDD.Domain\ModeloDDD.Domain.csproj">
       <Project>{48b4e98a-6ed0-412a-887b-68305249271b}</Project>
       <Name>ModeloDDD.Domain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ModeloDDD.Infra.Data\ModeloDDD.Infra.Data.csproj">
-      <Project>{aa9a1d41-237b-4b55-a607-5afef87a4f1d}</Project>
-      <Name>ModeloDDD.Infra.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

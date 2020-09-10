@@ -14,3 +14,10 @@ C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\M
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.dll
 C:\Users\esales\Desktop\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.pdb
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\ModeloDDD.Domain.dll.config
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\ModeloDDD.Domain.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\bin\Debug\ModeloDDD.Domain.pdb
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.dll
+C:\Users\esales\Desktop\Tentando Novamente DDD\Projeto-DDD---Eduardo-Pires\ModeloDDD.Domain\obj\Debug\ModeloDDD.Domain.pdb

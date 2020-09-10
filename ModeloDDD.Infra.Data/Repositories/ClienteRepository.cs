@@ -1,5 +1,6 @@
 ﻿using ModeloDDD.Domain.Entities;
 using ModeloDDD.Domain.Interfaces;
+using ModeloDDD.Domain.Interfaces.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
