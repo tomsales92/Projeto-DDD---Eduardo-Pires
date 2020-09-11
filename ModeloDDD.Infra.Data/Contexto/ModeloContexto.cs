@@ -53,8 +53,9 @@ namespace ModeloDDD.Infra.Data.Contexto
 
                 if(entry.State == EntityState.Modified)
                 {
-                    entry.Property("Datacadastro").IsModified = false;
+                    entry.Property("DataCadastro").IsModified = false;
                 }
+
             }
             return base.SaveChanges();
         }

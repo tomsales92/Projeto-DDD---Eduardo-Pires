@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace ModeloDDD.Application
 {
-    class ProdutoAppService : AppServiceBase<Produto>, IProdutoAppService
+    public class ProdutoAppService : AppServiceBase<Produto>, IProdutoAppService
     {
         private readonly IProdutoService _produtoService;
 

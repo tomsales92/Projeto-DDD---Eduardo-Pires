@@ -77,6 +77,7 @@ namespace ModeloDDD.MVC.Controllers
             {
                 var clienteDomain = Mapper.Map<ClienteViewModel, Cliente>(cliente);
                 _clienteApp.Update(clienteDomain);
+                return RedirectToAction("Index");
             }
 
             return View(cliente);
